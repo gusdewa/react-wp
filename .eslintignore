@@ -1,0 +1,5 @@
+src/__tests__/**
+src/helpers/__mocks__/**
+src/stores/__mocks__/**
+src/**/*.spec.js
+src/help/**

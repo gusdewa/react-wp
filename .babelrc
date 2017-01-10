@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "latest",
+    "react"
+  ],
+  "plugins": [
+    [
+      "react-intl",
+      {
+        "messagesDir": "./build/messages/",
+        "enforceDescription": true
+      }
+    ]
+  ]
+}
