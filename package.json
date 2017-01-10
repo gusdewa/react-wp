@@ -68,6 +68,7 @@
     "react-select": "1.0.0-rc.2",
     "react-slick": "0.14.5",
     "react-tap-event-plugin": "2.0.1",
+    "redux-immutable-state-invariant": "1.2.4",
     "react": "15.4.1",
     "redux-thunk": "2.1.0",
     "redux": "3.6.0",
@@ -119,12 +120,12 @@
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
     "webpack": "1.14.0",
-    "webpack-dev-server": "1.16.2",
-    "webpack-validator": "2.3.0",
     "webpack-bundle-analyzer": "2.1.1",
     "webpack-dev-middleware": "1.9.0",
+    "webpack-dev-server": "1.16.2",
     "webpack-hot-middleware": "2.13.2",
-    "webpack-md5-hash": "0.0.5"
+    "webpack-md5-hash": "0.0.5",
+    "webpack-validator": "2.3.0"
   },
   "repository": {
     "type": "git",
